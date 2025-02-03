@@ -62,7 +62,7 @@ GROUP BY personagens.nome;
 
 1️⃣ Clone este repositório:
 ```sh
-git clone https://github.com/seu-usuario/sql-yu-yu-hakusho.git
+git clone https://github.com/rafavcc/sql-yu-yu-hakusho.git
 ```
 
 2️⃣ Entre na pasta do projeto:
